@@ -1,0 +1,15 @@
+{
+  "name": "mmm-denhaag-trashcalendar",
+  "version": "1.0.0",
+  "description": "A simple module for MagicMirror2 designed to show when your trash will be collected by the Den Haag trash service in the Netherlands. It uses the same layout as hdurdle/MMM-WestBerksBinDay",
+  "main": "MMM-DenHaag-trashcalendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

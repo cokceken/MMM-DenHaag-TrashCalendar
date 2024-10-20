@@ -1,0 +1,38 @@
+.MMM-DenHaag-TrashCalendar .binday-container {
+    line-height: 1.50;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: left;
+}
+
+.MMM-DenHaag-TrashCalendar .binday-container .binday-date {
+    color: #fff;
+    margin-left: 25px;
+}
+
+.MMM-DenHaag-TrashCalendar .binday-container .binday-icon-container {
+    white-space: nowrap;
+    position: absolute;
+    left: 0px;
+    top: 6px;
+    line-height: 24px;
+}
+
+.MMM-DenHaag-TrashCalendar .binday-container .binday-icon-container .binday-icon {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+    vertical-align: bottom;
+    display: inline;
+    position: relative;
+}
+
+.MMM-DenHaag-TrashCalendar .today-container {
+    background-color: red;
+}
+
+.MMM-DenHaag-TrashCalendar .tomorrow-container {
+    background-color: green;
+}
